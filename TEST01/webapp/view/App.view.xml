@@ -3,7 +3,7 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
-					<content><Button text="hello worldss2"></Button> </content>
+					<content><Button text="hello worldss"></Button> </content>
 				</Page>
 			</pages>
 		</App>

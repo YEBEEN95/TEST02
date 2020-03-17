@@ -3,7 +3,11 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
+<<<<<<< HEAD
 					<content><Button text="hello worldv"></Button> </content>
+=======
+					<content><Button text="hello worlsdfsdd"></Button> </content>
+>>>>>>> refs/remotes/origin/edu
 				</Page>
 			</pages>
 		</App>
